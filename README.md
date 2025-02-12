@@ -2,14 +2,7 @@
 
 <table>
   <tr>
-    <td>
-      <img src="https://example.com/ваша_фото.jpg" alt="my_photo" width="200" />
-    </td>
-    <td>
       <h2>Я - Java Программист</h2>
-      <p>Погружаюсь в мир разработки программного обеспечения.</p>
-      <p>Стаж: <strong>[количество лет опыта]</strong> года.</p>
-    </td>
   </tr>
 </table>
 
