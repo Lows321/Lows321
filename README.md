@@ -22,10 +22,10 @@
 ---
 
 ## 🌐 Соц. сети
-- [GitHub](https://github.com/Lows321) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-- [VK](https://vk.com/id362348963) ![VK](https://img.shields.io/badge/-VK-45668e?style=flat&logo=vk&logoColor=white)
-- [Telegram](https://t.me/lows08) ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
-- [Leetcode](https://leetcode.com/u/Lows) ![Leetcode](https://img.shields.io/badge/-LeetCode-F9C74F?style=flat&logo=leetcode&logoColor=black)
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) [GitHub](https://github.com/Lows321)
+- ![VK](https://img.shields.io/badge/-VK-45668e?style=flat&logo=vk&logoColor=white) [VK](https://vk.com/id362348963)
+- ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white) [Telegram](https://t.me/lows08)
+- ![Leetcode](https://img.shields.io/badge/-LeetCode-F9C74F?style=flat&logo=leetcode&logoColor=black) [Leetcode](https://leetcode.com/u/Lows)
 
 ---
 
